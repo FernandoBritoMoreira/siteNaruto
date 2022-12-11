@@ -1,0 +1,176 @@
+body{
+    background-color: #e9e6dc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#topo1{
+    background: linear-gradient(#161c1a73, #232d37);
+} 
+
+#imglogo{
+    display: flex;
+    width: 960px;
+    margin: auto;
+    justify-content: center;
+}
+
+#imglogo > img{
+  width: 200px;
+}
+
+#topo2{
+    background: linear-gradient(#a6abb0, #2d4155);
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.litopo{
+  display: inline-block;
+  justify-content: center;
+}
+
+.litopo a{
+    font-size: 20px;
+    color:#313232;
+    font-weight: 700;
+    margin: 0 40px;
+    text-decoration: none;
+}
+
+.litopo a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+#principalSobre1{
+    display: flex;
+}
+
+#sobreUl{
+    width: 960px;
+    margin: auto;
+    
+}
+
+.sobreDe{
+    
+  padding: 40px 0;
+  margin: 50px 0;
+  background: linear-gradient(#a6abb0, #2d4155);
+  justify-content: center;
+  text-align: center;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.sobrePa{
+    font-weight: normal;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    margin: 15px 10px;
+}
+
+#sobreSpan{
+    font-size: 20px;
+    font-weight: 600;
+    position: absolute;
+    right: 100px;
+    margin-top: 50px;
+}
+
+.sobreLin > img{
+    width: 60px;
+    padding: 30px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#rodaPe{
+    background: linear-gradient(#15161573, #17191b);
+    display: flex;
+    padding: 30px;   
+    align-items: center;
+    
+}
+
+
+
+#rodaPede{
+    font-weight: 600;
+    margin-left: 100px;}
+
+#rodaPepa{
+    font-weight: normal;
+    padding-top: 5px;
+}
+
+#cript{
+    margin-left: 600px;
+}
+
+
+
+    
